@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "16d53e92c4479ae674f687fc1bf16b7d",
+    "content-hash": "621e58f0efe7915a4a0e82385b0d5455",
     "packages": [
         {
             "name": "ramsey/collection",
@@ -2296,7 +2296,9 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": "8.0"
+    },
     "platform-dev": [],
     "plugin-api-version": "2.0.0"
 }
